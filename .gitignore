@@ -14,3 +14,5 @@ dependency-reduced-pom.xml
 .gradle
 .idea
 *.iml
+.env
+gradle.properties
